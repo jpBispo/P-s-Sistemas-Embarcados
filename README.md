@@ -1,4 +1,4 @@
-# P-s-Sistemas-Embarcados
+# Pós-graduação Sistemas-Embarcados
 
 Olá, este repositório tem como objetivo armazenar as atividades e materiais de estudos do curso de pós-graduação em Eletrônica Embarcada da UNISAL.
 
